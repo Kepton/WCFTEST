@@ -1,0 +1,6 @@
+D:\Kepton\Codes\C#\WcfTest\Service\bin\Service.dll.config
+D:\Kepton\Codes\C#\WcfTest\Service\bin\Service.dll
+D:\Kepton\Codes\C#\WcfTest\Service\bin\Service.pdb
+D:\Kepton\Codes\C#\WcfTest\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Kepton\Codes\C#\WcfTest\Service\obj\Debug\Service.dll
+D:\Kepton\Codes\C#\WcfTest\Service\obj\Debug\Service.pdb

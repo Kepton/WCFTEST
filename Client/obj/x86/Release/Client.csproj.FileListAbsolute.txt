@@ -1,0 +1,5 @@
+D:\Kepton\Codes\C#\WcfTest\Client\bin\x86\Release\Client.exe
+D:\Kepton\Codes\C#\WcfTest\Client\bin\x86\Release\Client.pdb
+D:\Kepton\Codes\C#\WcfTest\Client\obj\x86\Release\Client.exe
+D:\Kepton\Codes\C#\WcfTest\Client\obj\x86\Release\Client.pdb
+D:\Kepton\Codes\C#\WcfTest\Client\bin\x86\Release\Client.exe.config

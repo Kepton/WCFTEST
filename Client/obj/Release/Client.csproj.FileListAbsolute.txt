@@ -1,0 +1,5 @@
+D:\Kepton\Codes\C#\WcfTest\Client\bin\Release\Client.exe
+D:\Kepton\Codes\C#\WcfTest\Client\bin\Release\Client.pdb
+D:\Kepton\Codes\C#\WcfTest\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+D:\Kepton\Codes\C#\WcfTest\Client\obj\Release\Client.exe
+D:\Kepton\Codes\C#\WcfTest\Client\obj\Release\Client.pdb
